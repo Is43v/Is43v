@@ -37,5 +37,5 @@
 ---
 
 ### 📫 How to reach me
-- Telegram: [@your_telegram](https://t.me/your_telegram)
-- Email: your.email@example.com
+- Telegram: [@your_telegram](https://t.me/Is43v)
+- Email: p.avrelin@gmail.com
