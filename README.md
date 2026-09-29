@@ -16,7 +16,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,c,cpp,docker,git,postman,wireshark,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,c,cpp,docker,git,postman,wireshark,Jira,Confluence&perline=8" />
 </p>
 
 * **Languages:** Python, Bash, C/C++, SQL.
