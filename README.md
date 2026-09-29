@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,linux,bash,c,cpp,docker,git,postman,wireshark,&perline=8" />
 </p>
 
-* **Languages:** Python, Bash, C, SQL.
+* **Languages:** Python, Bash, C/C++, SQL.
 * **Tools & OS:** Linux, Docker, Git, Wireshark, Postman, EVE-NG, MikroTik.
 
 ---
